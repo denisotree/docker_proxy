@@ -1,0 +1,14 @@
+projects/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.idea
+.env
+
+certs/
+logs/
+mysql/
