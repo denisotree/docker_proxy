@@ -1,1 +1,4 @@
-# docker_proxy
+# Docker proxy cluster
+
+### Nginx
+### MySQL
